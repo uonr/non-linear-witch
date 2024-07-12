@@ -1,2 +1,3 @@
-# non-linear-witch
-My Blog
+# non-linear witch
+
+My blog
